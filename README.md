@@ -1,14 +1,22 @@
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdtcHZjMTl0eGxqN2c2MzM3Z3d4Y2c4ZDZhbjBocHFqOTljbmZpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BACNp4PYgXACSPujxi/giphy.gif"/></p>
+<h2> Hi, I'm Palesa Mashego! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTN0dm8yMGgwajZoeWc3cGdyanY1MnF2aG50cHppbjBmMnhoeGp1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/69bK4OX5RcklWMM69Z/giphy.gif" width="60"/></h2>
 
-👋 Hi, I’m @PalesaMash
-👀 I’m interested in learning how to code!
-🌱 I’m currently learning through SheCodes Foundation
-💞️ I’m looking to collaborate on beginner projects
-📫 How to reach me ...
-😄 Pronouns: She/Her
-⚡ Fun fact: I am a baby lawyer!
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3p3eXJna2FtdjVqaDVsNmo3YXpnMnQxZGxmcjVjd3pzcWRvNWl0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eMJXDJqSOVzQjFJ8Wv/giphy.gif" width="230">
+<p><em>Law Graduate at the University of Witwatersrand<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM5amdkbzliZ243bHhnMWY1OWdpd2FubHBtYzE0aWxoYTZsOGV6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VGbpeD8L7QFFprYzG2/giphy.gif" width="40">
+</br>
+  Learning Through <a href="https://www.shecodes.io">SheCodes</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+</em></p>
 
-<!---
-PalesaMash/PalesaMash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr>
+
+```javascript
+const palesa = {
+    pronouns: "She" | "Her",
+    code: ["HTML", "CSS", "Javascript"],
+    askMeAbout: ["tech", "law"],
+   
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTI3ZGxyNHYyeWVhbXF0cGkybzk5Z21vZGEzcTZhenZnaTlkejA0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/J67Jm0cmIi3z3XBXtA/giphy.gif" width="200"/>
+
