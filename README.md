@@ -6,7 +6,7 @@
 💞️ I’m looking to collaborate on beginner projects
 📫 How to reach me ...
 😄 Pronouns: She/Her
-⚡ Fun fact: I am a lawyer!
+⚡ Fun fact: I am a baby lawyer!
 
 <!---
 PalesaMash/PalesaMash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
