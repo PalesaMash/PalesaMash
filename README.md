@@ -23,3 +23,5 @@ const palesa = {
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTI3ZGxyNHYyeWVhbXF0cGkybzk5Z21vZGEzcTZhenZnaTlkejA0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/J67Jm0cmIi3z3XBXtA/giphy.gif" width="200"/>
 
+<hr>
+
