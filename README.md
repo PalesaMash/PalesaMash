@@ -14,7 +14,7 @@ const palesa = {
     code: ["HTML", "CSS", "Javascript"],
     askMeAbout: ["tech", "law"],
    
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "The world's first computer programmer was a woman named Ada Lovelace."
 };
 ```
 
