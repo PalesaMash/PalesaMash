@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdtcHZjMTl0eGxqN2c2MzM3Z3d4Y2c4ZDZhbjBocHFqOTljbmZpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BACNp4PYgXACSPujxi/giphy.gif"/></p>
+<p align="center" width="400px"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdtcHZjMTl0eGxqN2c2MzM3Z3d4Y2c4ZDZhbjBocHFqOTljbmZpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BACNp4PYgXACSPujxi/giphy.gif"/></p>
 
 👋 Hi, I’m @PalesaMash
 👀 I’m interested in learning how to code!
