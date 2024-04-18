@@ -6,6 +6,11 @@
   Learning to Code Through <a href="https://www.shecodes.io">SheCodes</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 </em></h4>
 
+[![Linkedin: palesamakaziwemashego](https://img.shields.io/badge/-palesamakaziwemashego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/palesamakaziwemashego/)](www.linkedin.com/in/palesa-makaziwe-mashego-1a1173125)
+
+[![GitHub Palesa](https://img.shields.io/github/followers/palesa?label=follow&style=social)](https://github.com/Palesa)
+
+
 <hr>
 
 ```javascript
