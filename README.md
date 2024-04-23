@@ -6,9 +6,6 @@
   Learning to Code Through <a href="https://www.shecodes.io">SheCodes</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc3M2JiaWd3aGN1eTM0bWFpaHBydmh5d3lmbzZteXduMHYxeW5rcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JmLALWLGRRkczI0T2a/giphy.gif" width="20">
 </em></h4>
 
-[![GitHub Palesa](https://img.shields.io/github/followers/palesa?label=follow&style=social)](https://github.com/Palesa)
-
-
 <hr>
 
 ```javascript
